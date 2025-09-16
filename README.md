@@ -1,2 +1,2 @@
-# Smart-Mobility-Ecosystem
-This repository contains resources and documents for the Smart Mobility project.
+# Customer Ordering & Stock Management System 
+This repository contains resources and documents for the Customer Ordering & Stock Management System .
